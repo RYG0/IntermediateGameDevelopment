@@ -1,0 +1,9 @@
+- Discuss your process of working on your flat game!
+
+The project itself is not much a problem since we already have the major part of the code. I am mostly doing
+the sprites. I choose a slime man as my character since I restarted playing Terraria recently. I made some sprites
+about smaller slimes, chests, flowers, and small ponds.
+
+I ran into a bigger problem with my sourcetree. I am using my own desktop for this project and I have to colone the repository
+from github into my own machine, and the problem occured when I tried to push what I had. there was an error popping up and sadly
+I lost all my files for this project. Luckily I had all the sprites and it didn't take me too long to redo the whole work.
