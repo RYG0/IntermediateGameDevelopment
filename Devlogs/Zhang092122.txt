@@ -7,3 +7,8 @@ about smaller slimes, chests, flowers, and small ponds.
 I ran into a bigger problem with my sourcetree. I am using my own desktop for this project and I have to colone the repository
 from github into my own machine, and the problem occured when I tried to push what I had. there was an error popping up and sadly
 I lost all my files for this project. Luckily I had all the sprites and it didn't take me too long to redo the whole work.
+
+I also had problems understanding the camera code so I didn't really use it. I just dragged the camera under my character and it achieved
+the part where camera would follow it. It is not that smooth though and I am still trying to figure things out.
+
+I decided to just leave sourcetree and switch to gitkraken, finally I can at least push my dev log to my github.
