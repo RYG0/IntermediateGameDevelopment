@@ -1,0 +1,14 @@
+- Devlog prompt: Discuss your process of working on your Rube Goldberg machine!
+I had a hard time working on this project. I googled about the machine that we have to recreate in Unity 
+for about an hour and I am still struggling between what I want to achieve and what I was able to do on my own.
+I gave up a lot of ideas since I was still trying to figure out the way how different rigidbodies, colliders, and joints work.
+
+I also made a mistake understanding the requirements of the assignment. I thought we have to make three camera positions and once
+we press on a certain button, the camera switched between each other. the fact is that we have to make the camera autmaticlly continues to 
+the next one once it reaches a certain place.
+
+The process is frustrating but I did learnt more about the content of this week as I dig in. When I was working on the start scene
+which the game would start once the player press space, I actually found a tutorial about how to pause the game, it introduces how 
+to use time.timescale to adjust the speed of time and I used it to creat my start game function. 
+
+Generally the work is fine but I would say there are still a lot things I can improve.
