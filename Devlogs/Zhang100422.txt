@@ -1,0 +1,10 @@
+Talk about your landscape game - what types of games come to mind? what can you do
+with what you have? Talk about your brainstorming process.
+
+My landscape game is actually a 2d recreation of the bobst liberary. the building itself is normal and
+pretty flat I would say, the thing that interests me is the food cart I added and I thought it would be 
+funny if I can utilize for my game. I then thought about making a catch game where player control a mini cart
+to catch food that were falling randomly. there is quite a space that I can play around with these collectable items
+falling from sky. most of them are going to save player from running out of time and gain credits, some of them will
+give the player a buff to move quicker and jump higher. once the player reach a certain score, items with debuff will 
+appear in game and do damage to players.
