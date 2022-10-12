@@ -1,0 +1,19 @@
+Discuss your process of working on your 2-week landscape game!
+NEW: Write down 1 question you have about Unity or development in 
+general (preferably nothing listed in the syllabus).This is an opportunity
+for you to request topics we may not cover by the end of class! 
+*These questions do not count toward your 100 word minimum.
+
+I spent most of my time configuring those random falling items, and I made players either gain
+points or lose health depending on the item type they collect. It took me a long while to connect
+the health bar and the score system to the actual start screen and end screen. once the player reach
+a certain score or loses all the health, he will enter the end screen and get to choose if he would like
+to do it again. Since I only have one level, I did not really need to worry about keeping the scores.
+
+I also spent quite a time to adjust the gravity and moving speed of my player. I added the jump feature to
+the character and I had some problems with this jump abilities. I need the player to be able to jump only
+when he is standing on the ground, otherwise he will fly away while spaming the space button. Luckily I solved it
+by adding a empty gameobject to detect the collision between player character and the platform.
+
+I do wonder how to create particle effects in unity. we've already seen the trail effect and I think it is also
+useful that we get to use particle effects especially when a collision occurs. 
