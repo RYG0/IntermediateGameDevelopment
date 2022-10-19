@@ -1,0 +1,14 @@
+- Devlog prompt: Discuss your process of working on your Midterm!
+- Write down 1 question you have about Unity or development in general
+
+I spent most of time working on the random enmey spawn system and a simple AI that make them
+chase the player. in order to do that, I went through stuff about substantiating objects and
+apply it to my own game. I set it so enemies will always spawn in random positions outside the
+camera and slowly chase the player. eventually I will make the enemies accelerate and reach a higher
+speed. I am also working on the shooter system and I needed more time on that. I plan to do multi-weapon
+system and each of them runs seperately. players can aim with their mouse for the first weapon while
+the second one would auto-aim the enemies.
+
+I just wonder if there is any website that we can look at besides the Unity documentation, I sometimes just
+found myself lost and cluless about how to achieve a certain feature, which could ususally be done by
+using a simple function that I never heard about. 
