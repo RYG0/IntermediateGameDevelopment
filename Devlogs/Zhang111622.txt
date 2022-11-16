@@ -1,0 +1,13 @@
+- We are doing devlogs again! Discuss working on your final!
+- Write down 1 question you have about Unity or development in general
+
+I am generally working on the visual part of this project.I played terraria and tmodloader for
+quite a long time so its really a pleasure to deal with the art assets. we are currently planning what kind assets we
+want to "borrow". in the original terraria, most guns are still drawn in a realistic style while in Calamity mod
+things gets more fantasy based and we decided to use the previous one.
+
+I am now searching for more sprites and edit them in aseprite so they are pixel perfect while maintain some of my own styles.
+I am also working on the UI part, currently the health bar and experience bar
+
+I am not doing too much work on unity recently, besides looking at my partners' works and giving advices. but we do have
+some problems doing the enemy's AI.
